@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Punya.</h1>
 <p align="center"><strong>Electronics & VLSI student · Thapar Institute of Engineering and Technology</strong></p>
-<p align="center">Learning to turn protocol diagrams into digital designs I can explain and verify.</p>
+<p align="center">Learning to turn protocol diagrams into digital designs.</p>
 
 ---
 
